@@ -1,24 +1,32 @@
-# README
+# MyBook
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## MyBookでできること
+MyBookはアルバムとしても使える予定管理アプリです。  
 
-Things you may want to cover:
+スケジュールを入力することはもちろん、イベント開催地を設定するとGoogleマップでそこまでのルートを調べることができます。また、対象のイベントに画像をつけることもできるので,後から思い出を見返すこともできます。  
+アカウントを持っていればどの端末からでもアクセスできます。
 
-* Ruby version
+## URL
 
-* System dependencies
+## MyBookを使う
+**テスト用アカウント**  
+ID: hoge@sample.com  
+PASSWORD: mypass
 
-* Configuration
+## 利用方法
 
-* Database creation
+## 目指した課題解決
+**ペルソナ**
+- 年齢:　20代後半から30代前半
+- 職業:　営業
+- 趣味:　旅行先で写真を撮ること
+**課題**
+- 仕事とプライベートを1つのカレンダーで管理したい
+- どこで商談があるかとその場所への行き方をすぐに調べたい
+- 行った場所の写真を記録しておきたい
 
-* Database initialization
+## 洗い出し要件
 
-* How to run the test suite
+## ER図
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## ローカルでの動作方法
